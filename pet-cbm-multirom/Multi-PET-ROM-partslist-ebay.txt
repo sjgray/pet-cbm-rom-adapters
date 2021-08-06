@@ -1,0 +1,9 @@
+ebay#		qty	desc						 USD$ 	unit$
+291623726753	10	28Pin wide DIP Round IC Sockets			 3.48	.34
+262715573930	50	A05 10K ohm 5-pin resistor network		 2.98	.06
+253823347087	10	Header Strip Connector 40Pin 2.54mm Round Male   3.62	.36
+252024566074	10	4-position DIP Switch block			  .99	.10
+181595821013	10	27C512 EPROM					 8.88	.89
+Steve's PCB	10	PET/CBM Multi-ROM ($20.00+shipping)		 5.20	.52
+
+Total: USD$2.27

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Multi-PET-ROM-rescue)(type Legacy)(uri ${KIPRJMOD}/Multi-PET-ROM-rescue.lib)(options "")(descr ""))  
+)
