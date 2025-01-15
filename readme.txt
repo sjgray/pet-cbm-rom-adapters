@@ -25,6 +25,7 @@ or dip-switch.
 
 More information is available on the web:
 
-http://www.6502.org/users/sjgray/projects/multieditrom/index.html
+http://www.cbmsteve.ca
+http://www.cbmsteve.ca/multieditrom/index.html
 
 Steve
