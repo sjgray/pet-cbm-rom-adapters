@@ -5,6 +5,16 @@ These adapters allow you to combine multiple 4K ROMS
 into one 64K ROM and select them via separate switches
 or dip-switch.
 
+The following are available:
+
+1) PET-CBM-MULTIROM
+2) MULTI-EDIT-ROM
+3) 2332-MultiROM-PLCC
+
+
+DECRIPTIONS
+-----------
+
 1) PET-CBM-MULTIROM
 
   - Up to 16 ROMs in one.
@@ -22,6 +32,13 @@ or dip-switch.
   - 4-position DIP SWITCH or off-board switches
   - Suitable for SuperPET EDIT, KERNAL and BASIC ROM sockets,
     but NOT adjacent sockets due to width of board
+
+3) 2332-MultiROM-PLCC
+  - Generally for PET ROM sockets
+  - Replace any 2332 Masked ROM with a Winbond W27C010 or 0W27C020
+  - Up to 16 4K banks
+  - Board is same width as socket and only slightly longer
+
 
 More information is available on the web:
 

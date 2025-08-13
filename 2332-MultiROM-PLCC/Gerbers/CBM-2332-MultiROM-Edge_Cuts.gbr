@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*
+G04 #@! TF.CreationDate,2025-08-10T20:52:22-04:00*
+G04 #@! TF.ProjectId,CBM-2332-MultiROM,43424d2d-3233-4333-922d-4d756c746952,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-08-10 20:52:22*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.150000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X113004600Y-78054200D02*
+X146964400Y-78054200D01*
+X146964400Y-97129600D01*
+X113004600Y-97129600D01*
+X113004600Y-78054200D01*
+M02*

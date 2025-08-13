@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "cbm-steve")(type "KiCad")(uri "//NAS/data/Personal/Steve/MyProjects/_KiCadProjects/_SteveLib/cbm-steve.kicad_sym")(options "")(descr ""))
+  (lib (name "CBM2-MultiROM-rescue")(type "KiCad")(uri "${KIPRJMOD}/CBM2-MultiROM-rescue.kicad_sym")(options "")(descr ""))
+)
